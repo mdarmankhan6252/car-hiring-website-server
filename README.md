@@ -30,13 +30,13 @@
 - React-router-dom
 
 ### HOME
-![alt text](https://i.ibb.co.com/C7Mg8ht/home.png)
+![alt text](https://iili.io/2NfViE7.png)
 
 ### About
-![alt text](https://i.ibb.co.com/FwYtSF3/about.png)
+![alt text](https://iili.io/2NfhvYF.png)
 
-### CARS
-![alt text](https://i.ibb.co.com/jy0S5N4/cars.png)
+### ALL CARS
+![alt text](https://iili.io/2NfOUcN.png)
 
 ### Admin panel
 ![alt text](https://i.ibb.co.com/5Gr9QCW/admin.png)
